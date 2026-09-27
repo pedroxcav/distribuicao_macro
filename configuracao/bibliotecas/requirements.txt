@@ -1,0 +1,5 @@
+# Confirme e fixe as versões homologadas no ambiente de trabalho.
+pandas
+boto3
+jupyter
+aws-glue-sessions

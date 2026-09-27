@@ -1,0 +1,51 @@
+{
+  "Habilitado": false,
+  "Variaveis": [
+    {
+      "Habilitado": false,
+      "Nome": "HTTP_PROXY",
+      "Valor": "PREENCHER_NO_AMBIENTE_DE_TRABALHO"
+    },
+    {
+      "Habilitado": false,
+      "Nome": "HTTPS_PROXY",
+      "Valor": "PREENCHER_NO_AMBIENTE_DE_TRABALHO"
+    },
+    {
+      "Habilitado": false,
+      "Nome": "NO_PROXY",
+      "Valor": "PREENCHER_NO_AMBIENTE_DE_TRABALHO"
+    },
+    {
+      "Habilitado": false,
+      "Nome": "AWS_CA_BUNDLE",
+      "Valor": "%APPDATA%\\.aws\\corporate-ca-bundle.pem"
+    }
+  ],
+  "Python": {
+    "Habilitado": false,
+    "Versao": "3.12",
+    "CriarAmbienteVirtual": true,
+    "ComandoPip": "-m pip install --upgrade -r \"%APPDIR%\\configuracao\\bibliotecas\\requirements.txt\"",
+    "InstalarKernelsGlue": true,
+    "AdicionarAoPath": true,
+    "TimeoutMinutos": 30
+  },
+  "Arquivos": [
+    {
+      "Habilitado": false,
+      "Origem": "configuracao\\arquivos\\aws\\config",
+      "Destino": "%APPDATA%\\.aws\\config"
+    },
+    {
+      "Habilitado": false,
+      "Origem": "configuracao\\arquivos\\certificado\\corporate-ca-bundle.pem",
+      "Destino": "%APPDATA%\\.aws\\corporate-ca-bundle.pem"
+    },
+    {
+      "Habilitado": false,
+      "Origem": "configuracao\\arquivos\\pip\\pip.ini",
+      "Destino": "%APPDATA%\\pip\\pip.ini"
+    }
+  ]
+}

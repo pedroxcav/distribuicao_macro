@@ -1,0 +1,1 @@
+Substitua este marcador pelo arquivo chamado "pip.ini" fornecido no ambiente de trabalho.

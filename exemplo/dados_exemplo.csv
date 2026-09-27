@@ -1,0 +1,301 @@
+﻿ocorrencia_id,tipo_atividade,data,loja,canal,categoria,descricao,valor,status
+1,1,2026-03-05,Loja Centro,Aplicativo,Entrega,Pedido entregue com atraso,138.06,Em análise
+2,2,2026-01-30,Loja Online,Televendas,Atendimento,Atualização cadastral pendente,3213.58,Resolvida
+3,3,2026-05-30,Loja Centro,Loja física,Atendimento,Dúvida sobre troca,4448.45,Em análise
+4,1,2026-02-15,Loja Sul,Site,Atendimento,Dúvida sobre troca,784.92,Resolvida
+5,2,2026-04-27,Loja Centro,Loja física,Cadastro,Dúvida sobre troca,4228.21,Resolvida
+6,3,2026-04-06,Loja Sul,Aplicativo,Produto,Produto com avaria,4951.53,Em análise
+7,1,2026-01-25,Loja Centro,Site,Pagamento,Produto com avaria,2972.67,Resolvida
+8,2,2026-04-08,Loja Norte,Site,Pagamento,Pedido entregue com atraso,1676.5,Resolvida
+9,3,2026-08-27,Loja Centro,Televendas,Cadastro,Pedido entregue com atraso,1578.49,Aberta
+10,1,2026-09-02,Loja Centro,Televendas,Atendimento,Atualização cadastral pendente,3553.2,Aberta
+11,2,2026-01-30,Loja Sul,Loja física,Entrega,Produto com avaria,3492.14,Em análise
+12,3,2026-02-22,Loja Norte,Aplicativo,Atendimento,Dúvida sobre troca,3488.87,Resolvida
+13,1,2026-04-11,Loja Centro,Loja física,Cadastro,Produto com avaria,4939.23,Em análise
+14,2,2026-07-06,Loja Sul,Loja física,Pagamento,Dúvida sobre troca,4893.87,Resolvida
+15,3,2026-02-12,Loja Norte,Site,Cadastro,Dúvida sobre troca,4569.7,Aberta
+16,1,2026-03-21,Loja Sul,Site,Cadastro,Cobrança divergente,3243.42,Em análise
+17,2,2026-04-29,Loja Norte,Aplicativo,Produto,Atualização cadastral pendente,3021.75,Aberta
+18,3,2026-04-05,Loja Sul,Televendas,Entrega,Dúvida sobre troca,4750.21,Em análise
+19,1,2026-08-20,Loja Centro,Site,Cadastro,Atualização cadastral pendente,4761.71,Resolvida
+20,2,2026-06-26,Loja Online,Site,Cadastro,Produto com avaria,257.97,Em análise
+21,3,2026-04-25,Loja Leste,Televendas,Pagamento,Atualização cadastral pendente,1523.14,Em análise
+22,1,2026-06-16,Loja Sul,Site,Produto,Atualização cadastral pendente,181.0,Resolvida
+23,2,2026-07-02,Loja Online,Aplicativo,Cadastro,Dúvida sobre troca,4914.18,Em análise
+24,3,2026-07-16,Loja Centro,Aplicativo,Produto,Pedido entregue com atraso,3738.7,Aberta
+25,1,2026-08-24,Loja Sul,Site,Cadastro,Atualização cadastral pendente,162.84,Em análise
+26,2,2026-05-28,Loja Centro,Loja física,Pagamento,Pedido entregue com atraso,1419.44,Em análise
+27,3,2026-04-18,Loja Online,Aplicativo,Cadastro,Pedido entregue com atraso,3505.11,Aberta
+28,1,2026-08-17,Loja Online,Aplicativo,Produto,Produto com avaria,2951.9,Aberta
+29,2,2026-02-06,Loja Norte,Loja física,Entrega,Atualização cadastral pendente,3894.04,Em análise
+30,3,2026-07-26,Loja Norte,Aplicativo,Cadastro,Pedido entregue com atraso,3655.53,Em análise
+31,1,2026-07-08,Loja Leste,Site,Atendimento,Dúvida sobre troca,3979.25,Resolvida
+32,2,2026-02-10,Loja Sul,Aplicativo,Produto,Cobrança divergente,2192.66,Aberta
+33,3,2026-07-27,Loja Norte,Site,Atendimento,Produto com avaria,3029.9,Aberta
+34,1,2026-05-05,Loja Sul,Televendas,Pagamento,Cobrança divergente,4084.07,Resolvida
+35,2,2026-07-11,Loja Centro,Loja física,Produto,Dúvida sobre troca,4369.51,Resolvida
+36,3,2026-01-23,Loja Leste,Televendas,Produto,Atualização cadastral pendente,4455.01,Resolvida
+37,1,2026-07-09,Loja Sul,Televendas,Entrega,Atualização cadastral pendente,2982.15,Aberta
+38,2,2026-02-08,Loja Sul,Loja física,Produto,Produto com avaria,1141.75,Aberta
+39,3,2026-01-23,Loja Online,Televendas,Entrega,Atualização cadastral pendente,626.09,Aberta
+40,1,2026-07-30,Loja Norte,Site,Cadastro,Pedido entregue com atraso,3605.44,Aberta
+41,2,2026-02-27,Loja Online,Televendas,Pagamento,Dúvida sobre troca,927.53,Aberta
+42,3,2026-03-24,Loja Online,Televendas,Cadastro,Cobrança divergente,3924.01,Em análise
+43,1,2026-08-12,Loja Centro,Aplicativo,Pagamento,Produto com avaria,1392.54,Aberta
+44,2,2026-08-03,Loja Leste,Loja física,Atendimento,Cobrança divergente,1199.53,Resolvida
+45,3,2026-02-14,Loja Norte,Televendas,Produto,Atualização cadastral pendente,2574.32,Resolvida
+46,1,2026-02-19,Loja Centro,Aplicativo,Produto,Dúvida sobre troca,1179.98,Em análise
+47,2,2026-08-08,Loja Sul,Site,Atendimento,Dúvida sobre troca,3314.88,Em análise
+48,3,2026-09-07,Loja Norte,Loja física,Produto,Atualização cadastral pendente,458.58,Aberta
+49,1,2026-06-27,Loja Online,Aplicativo,Produto,Atualização cadastral pendente,3789.48,Aberta
+50,2,2026-02-06,Loja Norte,Aplicativo,Entrega,Pedido entregue com atraso,211.22,Aberta
+51,3,2026-07-10,Loja Norte,Site,Cadastro,Dúvida sobre troca,1967.94,Em análise
+52,1,2026-08-07,Loja Norte,Aplicativo,Pagamento,Atualização cadastral pendente,1030.69,Em análise
+53,2,2026-03-08,Loja Online,Site,Produto,Dúvida sobre troca,2813.86,Resolvida
+54,3,2026-03-12,Loja Norte,Televendas,Cadastro,Pedido entregue com atraso,2737.72,Aberta
+55,1,2026-09-02,Loja Norte,Loja física,Produto,Produto com avaria,4950.1,Em análise
+56,2,2026-06-16,Loja Centro,Televendas,Cadastro,Pedido entregue com atraso,4438.64,Resolvida
+57,3,2026-06-20,Loja Norte,Aplicativo,Pagamento,Cobrança divergente,260.66,Resolvida
+58,1,2026-02-19,Loja Leste,Site,Produto,Produto com avaria,611.72,Aberta
+59,2,2026-05-20,Loja Leste,Televendas,Entrega,Pedido entregue com atraso,4965.56,Aberta
+60,3,2026-07-17,Loja Norte,Televendas,Entrega,Pedido entregue com atraso,1443.66,Resolvida
+61,1,2026-07-16,Loja Norte,Aplicativo,Entrega,Cobrança divergente,229.83,Resolvida
+62,2,2026-05-11,Loja Sul,Televendas,Entrega,Dúvida sobre troca,657.76,Em análise
+63,3,2026-05-03,Loja Centro,Televendas,Entrega,Dúvida sobre troca,1700.28,Em análise
+64,1,2026-01-26,Loja Centro,Televendas,Pagamento,Dúvida sobre troca,3622.55,Em análise
+65,2,2026-04-13,Loja Norte,Loja física,Entrega,Produto com avaria,2168.59,Aberta
+66,3,2026-01-18,Loja Sul,Aplicativo,Entrega,Cobrança divergente,4334.72,Aberta
+67,1,2026-09-01,Loja Leste,Televendas,Produto,Pedido entregue com atraso,2865.8,Aberta
+68,2,2026-05-20,Loja Leste,Aplicativo,Cadastro,Pedido entregue com atraso,3062.39,Em análise
+69,3,2026-08-14,Loja Online,Site,Pagamento,Atualização cadastral pendente,4295.62,Resolvida
+70,1,2026-06-04,Loja Sul,Site,Produto,Dúvida sobre troca,3893.11,Resolvida
+71,2,2026-03-27,Loja Sul,Aplicativo,Entrega,Pedido entregue com atraso,902.05,Resolvida
+72,3,2026-05-05,Loja Norte,Site,Entrega,Atualização cadastral pendente,4804.94,Em análise
+73,1,2026-05-09,Loja Norte,Aplicativo,Entrega,Atualização cadastral pendente,734.2,Aberta
+74,2,2026-06-08,Loja Online,Loja física,Produto,Dúvida sobre troca,3058.41,Em análise
+75,3,2026-06-01,Loja Sul,Televendas,Cadastro,Pedido entregue com atraso,2918.32,Resolvida
+76,1,2026-01-02,Loja Leste,Loja física,Produto,Cobrança divergente,3470.38,Resolvida
+77,2,2026-03-03,Loja Online,Loja física,Atendimento,Pedido entregue com atraso,656.92,Resolvida
+78,3,2026-04-26,Loja Sul,Loja física,Atendimento,Cobrança divergente,1658.77,Resolvida
+79,1,2026-08-16,Loja Online,Site,Atendimento,Atualização cadastral pendente,3078.59,Resolvida
+80,2,2026-08-31,Loja Sul,Aplicativo,Pagamento,Atualização cadastral pendente,1287.25,Resolvida
+81,3,2026-01-17,Loja Leste,Aplicativo,Pagamento,Produto com avaria,4182.01,Em análise
+82,1,2026-07-23,Loja Sul,Aplicativo,Cadastro,Pedido entregue com atraso,4622.75,Resolvida
+83,2,2026-03-24,Loja Online,Televendas,Produto,Atualização cadastral pendente,2455.24,Em análise
+84,3,2026-07-15,Loja Norte,Loja física,Atendimento,Cobrança divergente,1333.25,Em análise
+85,1,2026-05-13,Loja Sul,Televendas,Pagamento,Pedido entregue com atraso,749.14,Em análise
+86,2,2026-05-23,Loja Sul,Aplicativo,Cadastro,Atualização cadastral pendente,2250.5,Em análise
+87,3,2026-07-04,Loja Norte,Aplicativo,Cadastro,Pedido entregue com atraso,2982.51,Em análise
+88,1,2026-08-11,Loja Online,Aplicativo,Cadastro,Cobrança divergente,858.83,Resolvida
+89,2,2026-03-04,Loja Norte,Loja física,Entrega,Cobrança divergente,2059.66,Aberta
+90,3,2026-02-17,Loja Online,Aplicativo,Entrega,Produto com avaria,4639.1,Em análise
+91,1,2026-07-22,Loja Sul,Televendas,Produto,Dúvida sobre troca,3188.62,Aberta
+92,2,2026-05-18,Loja Norte,Aplicativo,Entrega,Atualização cadastral pendente,833.2,Em análise
+93,3,2026-07-06,Loja Norte,Site,Atendimento,Pedido entregue com atraso,3154.09,Em análise
+94,1,2026-03-23,Loja Norte,Aplicativo,Atendimento,Produto com avaria,4810.33,Resolvida
+95,2,2026-03-12,Loja Sul,Loja física,Entrega,Produto com avaria,4673.0,Em análise
+96,3,2026-05-08,Loja Online,Loja física,Atendimento,Cobrança divergente,4189.76,Aberta
+97,1,2026-05-26,Loja Sul,Aplicativo,Entrega,Cobrança divergente,976.86,Aberta
+98,2,2026-04-04,Loja Online,Aplicativo,Atendimento,Atualização cadastral pendente,826.7,Resolvida
+99,3,2026-01-11,Loja Online,Aplicativo,Pagamento,Dúvida sobre troca,4612.39,Em análise
+100,1,2026-05-14,Loja Sul,Site,Entrega,Dúvida sobre troca,1445.38,Aberta
+101,2,2026-08-12,Loja Centro,Aplicativo,Pagamento,Dúvida sobre troca,1426.13,Em análise
+102,3,2026-01-11,Loja Leste,Loja física,Produto,Atualização cadastral pendente,3839.0,Em análise
+103,1,2026-07-07,Loja Centro,Aplicativo,Entrega,Atualização cadastral pendente,727.45,Aberta
+104,2,2026-08-15,Loja Centro,Loja física,Produto,Dúvida sobre troca,3495.74,Resolvida
+105,3,2026-06-16,Loja Norte,Televendas,Entrega,Dúvida sobre troca,2023.67,Aberta
+106,1,2026-03-01,Loja Online,Televendas,Entrega,Atualização cadastral pendente,176.1,Resolvida
+107,2,2026-08-27,Loja Online,Site,Produto,Pedido entregue com atraso,1458.58,Aberta
+108,3,2026-04-06,Loja Centro,Aplicativo,Pagamento,Atualização cadastral pendente,2996.11,Resolvida
+109,1,2026-03-22,Loja Sul,Loja física,Cadastro,Dúvida sobre troca,3457.64,Aberta
+110,2,2026-07-20,Loja Centro,Aplicativo,Entrega,Dúvida sobre troca,1505.33,Aberta
+111,3,2026-09-04,Loja Norte,Site,Pagamento,Dúvida sobre troca,417.41,Aberta
+112,1,2026-02-27,Loja Norte,Aplicativo,Pagamento,Dúvida sobre troca,1474.67,Resolvida
+113,2,2026-05-23,Loja Centro,Site,Pagamento,Cobrança divergente,4698.21,Aberta
+114,3,2026-08-16,Loja Sul,Aplicativo,Pagamento,Dúvida sobre troca,3969.33,Aberta
+115,1,2026-01-19,Loja Leste,Aplicativo,Atendimento,Cobrança divergente,177.98,Resolvida
+116,2,2026-03-19,Loja Leste,Site,Pagamento,Pedido entregue com atraso,1052.95,Resolvida
+117,3,2026-05-21,Loja Norte,Aplicativo,Produto,Cobrança divergente,2503.91,Resolvida
+118,1,2026-02-08,Loja Online,Televendas,Atendimento,Dúvida sobre troca,2802.35,Em análise
+119,2,2026-04-17,Loja Sul,Site,Cadastro,Cobrança divergente,2058.87,Aberta
+120,3,2026-03-15,Loja Leste,Televendas,Cadastro,Cobrança divergente,615.23,Resolvida
+121,1,2026-06-26,Loja Centro,Site,Produto,Pedido entregue com atraso,2413.67,Em análise
+122,2,2026-06-09,Loja Norte,Televendas,Entrega,Cobrança divergente,597.13,Em análise
+123,3,2026-03-10,Loja Sul,Site,Atendimento,Dúvida sobre troca,4545.19,Aberta
+124,1,2026-05-26,Loja Online,Site,Entrega,Atualização cadastral pendente,2586.71,Resolvida
+125,2,2026-07-20,Loja Norte,Aplicativo,Pagamento,Cobrança divergente,4657.33,Em análise
+126,3,2026-05-31,Loja Norte,Aplicativo,Cadastro,Atualização cadastral pendente,3530.4,Em análise
+127,1,2026-01-26,Loja Leste,Aplicativo,Pagamento,Dúvida sobre troca,4347.03,Resolvida
+128,2,2026-04-18,Loja Norte,Aplicativo,Pagamento,Atualização cadastral pendente,2797.25,Em análise
+129,3,2026-03-18,Loja Norte,Aplicativo,Cadastro,Atualização cadastral pendente,4514.74,Em análise
+130,1,2026-04-13,Loja Online,Loja física,Pagamento,Produto com avaria,1102.88,Em análise
+131,2,2026-05-18,Loja Sul,Aplicativo,Entrega,Produto com avaria,327.97,Aberta
+132,3,2026-03-20,Loja Sul,Televendas,Pagamento,Produto com avaria,2025.29,Aberta
+133,1,2026-08-04,Loja Sul,Televendas,Atendimento,Cobrança divergente,2991.06,Em análise
+134,2,2026-08-14,Loja Centro,Site,Pagamento,Dúvida sobre troca,1047.05,Aberta
+135,3,2026-07-01,Loja Sul,Site,Pagamento,Atualização cadastral pendente,1785.35,Em análise
+136,1,2026-06-22,Loja Norte,Site,Atendimento,Atualização cadastral pendente,4214.04,Em análise
+137,2,2026-04-22,Loja Sul,Loja física,Produto,Cobrança divergente,4963.46,Resolvida
+138,3,2026-04-20,Loja Sul,Loja física,Entrega,Pedido entregue com atraso,2683.49,Aberta
+139,1,2026-08-13,Loja Leste,Aplicativo,Produto,Dúvida sobre troca,3891.02,Em análise
+140,2,2026-05-15,Loja Online,Site,Atendimento,Pedido entregue com atraso,2529.38,Em análise
+141,3,2026-07-07,Loja Online,Loja física,Atendimento,Cobrança divergente,3161.95,Aberta
+142,1,2026-02-15,Loja Sul,Televendas,Atendimento,Pedido entregue com atraso,2833.95,Resolvida
+143,2,2026-07-27,Loja Centro,Aplicativo,Atendimento,Produto com avaria,4129.02,Resolvida
+144,3,2026-04-02,Loja Norte,Site,Pagamento,Pedido entregue com atraso,586.53,Em análise
+145,1,2026-06-10,Loja Centro,Aplicativo,Cadastro,Pedido entregue com atraso,2484.32,Aberta
+146,2,2026-04-12,Loja Norte,Loja física,Cadastro,Produto com avaria,4897.18,Em análise
+147,3,2026-02-23,Loja Centro,Televendas,Produto,Cobrança divergente,84.14,Em análise
+148,1,2026-06-12,Loja Online,Aplicativo,Cadastro,Produto com avaria,2650.07,Resolvida
+149,2,2026-07-22,Loja Leste,Site,Entrega,Cobrança divergente,672.99,Aberta
+150,3,2026-08-05,Loja Leste,Televendas,Cadastro,Cobrança divergente,2940.5,Resolvida
+151,1,2026-08-28,Loja Centro,Site,Atendimento,Produto com avaria,4992.76,Em análise
+152,2,2026-07-18,Loja Centro,Televendas,Produto,Cobrança divergente,2669.28,Resolvida
+153,3,2026-01-01,Loja Leste,Loja física,Atendimento,Cobrança divergente,2308.88,Em análise
+154,1,2026-05-21,Loja Sul,Aplicativo,Cadastro,Produto com avaria,3728.11,Resolvida
+155,2,2026-03-14,Loja Leste,Site,Atendimento,Atualização cadastral pendente,3944.76,Aberta
+156,3,2026-01-29,Loja Norte,Site,Entrega,Pedido entregue com atraso,3258.34,Resolvida
+157,1,2026-04-07,Loja Sul,Aplicativo,Cadastro,Pedido entregue com atraso,4604.96,Resolvida
+158,2,2026-04-14,Loja Leste,Aplicativo,Entrega,Atualização cadastral pendente,1154.38,Em análise
+159,3,2026-08-23,Loja Centro,Televendas,Pagamento,Atualização cadastral pendente,4413.09,Resolvida
+160,1,2026-04-30,Loja Leste,Aplicativo,Produto,Produto com avaria,2168.44,Em análise
+161,2,2026-08-27,Loja Sul,Aplicativo,Pagamento,Dúvida sobre troca,4509.65,Resolvida
+162,3,2026-06-07,Loja Centro,Televendas,Entrega,Cobrança divergente,3427.83,Resolvida
+163,1,2026-08-02,Loja Norte,Loja física,Cadastro,Pedido entregue com atraso,1704.79,Em análise
+164,2,2026-05-07,Loja Centro,Site,Pagamento,Dúvida sobre troca,4806.37,Aberta
+165,3,2026-01-18,Loja Leste,Aplicativo,Cadastro,Dúvida sobre troca,3027.62,Em análise
+166,1,2026-08-08,Loja Sul,Site,Entrega,Cobrança divergente,29.09,Resolvida
+167,2,2026-02-21,Loja Online,Aplicativo,Cadastro,Produto com avaria,534.85,Em análise
+168,3,2026-05-20,Loja Leste,Loja física,Produto,Atualização cadastral pendente,2841.51,Em análise
+169,1,2026-05-05,Loja Centro,Televendas,Pagamento,Cobrança divergente,3873.41,Em análise
+170,2,2026-05-03,Loja Centro,Televendas,Cadastro,Pedido entregue com atraso,1223.73,Resolvida
+171,3,2026-06-18,Loja Leste,Site,Cadastro,Cobrança divergente,641.93,Aberta
+172,1,2026-08-04,Loja Sul,Loja física,Produto,Pedido entregue com atraso,4900.82,Aberta
+173,2,2026-05-13,Loja Leste,Loja física,Pagamento,Atualização cadastral pendente,4820.14,Em análise
+174,3,2026-03-09,Loja Sul,Televendas,Cadastro,Produto com avaria,4718.14,Aberta
+175,1,2026-02-18,Loja Leste,Televendas,Produto,Produto com avaria,322.18,Resolvida
+176,2,2026-05-15,Loja Online,Televendas,Cadastro,Pedido entregue com atraso,2008.97,Em análise
+177,3,2026-01-21,Loja Centro,Site,Pagamento,Produto com avaria,1313.89,Aberta
+178,1,2026-07-01,Loja Norte,Aplicativo,Atendimento,Pedido entregue com atraso,4774.25,Em análise
+179,2,2026-07-04,Loja Centro,Loja física,Produto,Atualização cadastral pendente,3145.28,Resolvida
+180,3,2026-03-26,Loja Centro,Loja física,Pagamento,Produto com avaria,1177.86,Resolvida
+181,1,2026-08-05,Loja Sul,Site,Pagamento,Dúvida sobre troca,3211.0,Resolvida
+182,2,2026-07-03,Loja Online,Aplicativo,Cadastro,Produto com avaria,666.37,Resolvida
+183,3,2026-07-14,Loja Centro,Televendas,Produto,Dúvida sobre troca,4383.86,Em análise
+184,1,2026-04-05,Loja Norte,Loja física,Produto,Pedido entregue com atraso,2317.88,Em análise
+185,2,2026-09-02,Loja Centro,Televendas,Produto,Dúvida sobre troca,1873.81,Aberta
+186,3,2026-08-25,Loja Centro,Site,Entrega,Dúvida sobre troca,2531.02,Aberta
+187,1,2026-04-29,Loja Norte,Loja física,Atendimento,Pedido entregue com atraso,4795.42,Resolvida
+188,2,2026-02-18,Loja Online,Aplicativo,Pagamento,Atualização cadastral pendente,4470.19,Em análise
+189,3,2026-05-18,Loja Sul,Televendas,Atendimento,Cobrança divergente,757.2,Em análise
+190,1,2026-05-13,Loja Sul,Aplicativo,Entrega,Cobrança divergente,3967.9,Em análise
+191,2,2026-07-19,Loja Leste,Aplicativo,Entrega,Produto com avaria,843.02,Aberta
+192,3,2026-08-04,Loja Sul,Televendas,Atendimento,Produto com avaria,3857.23,Resolvida
+193,1,2026-03-08,Loja Norte,Site,Atendimento,Atualização cadastral pendente,4306.3,Resolvida
+194,2,2026-08-22,Loja Sul,Loja física,Produto,Atualização cadastral pendente,1777.86,Em análise
+195,3,2026-01-16,Loja Norte,Aplicativo,Cadastro,Produto com avaria,1488.72,Aberta
+196,1,2026-01-16,Loja Norte,Site,Entrega,Pedido entregue com atraso,2385.87,Resolvida
+197,2,2026-08-21,Loja Norte,Loja física,Produto,Produto com avaria,952.89,Em análise
+198,3,2026-08-02,Loja Sul,Loja física,Cadastro,Cobrança divergente,4751.15,Aberta
+199,1,2026-06-08,Loja Leste,Aplicativo,Cadastro,Atualização cadastral pendente,3181.18,Em análise
+200,2,2026-03-13,Loja Online,Loja física,Entrega,Pedido entregue com atraso,1575.27,Em análise
+201,3,2026-04-01,Loja Centro,Loja física,Atendimento,Produto com avaria,2195.72,Em análise
+202,1,2026-05-30,Loja Leste,Site,Produto,Atualização cadastral pendente,4606.68,Aberta
+203,2,2026-07-12,Loja Leste,Site,Pagamento,Dúvida sobre troca,616.19,Aberta
+204,3,2026-05-23,Loja Sul,Aplicativo,Produto,Dúvida sobre troca,3039.04,Aberta
+205,1,2026-03-14,Loja Online,Site,Cadastro,Produto com avaria,1397.37,Em análise
+206,2,2026-04-20,Loja Online,Televendas,Produto,Dúvida sobre troca,3190.64,Resolvida
+207,3,2026-07-29,Loja Centro,Site,Pagamento,Dúvida sobre troca,2316.77,Resolvida
+208,1,2026-05-01,Loja Norte,Site,Atendimento,Produto com avaria,2968.63,Aberta
+209,2,2026-01-23,Loja Norte,Televendas,Pagamento,Dúvida sobre troca,1607.83,Resolvida
+210,3,2026-07-09,Loja Centro,Aplicativo,Produto,Atualização cadastral pendente,1670.2,Resolvida
+211,1,2026-04-07,Loja Leste,Televendas,Atendimento,Pedido entregue com atraso,1366.56,Aberta
+212,2,2026-02-28,Loja Centro,Aplicativo,Cadastro,Atualização cadastral pendente,4242.54,Aberta
+213,3,2026-04-24,Loja Leste,Loja física,Atendimento,Dúvida sobre troca,3492.44,Resolvida
+214,1,2026-09-05,Loja Centro,Loja física,Atendimento,Pedido entregue com atraso,3415.64,Em análise
+215,2,2026-07-28,Loja Sul,Televendas,Cadastro,Produto com avaria,2577.93,Aberta
+216,3,2026-01-31,Loja Centro,Aplicativo,Pagamento,Produto com avaria,1173.39,Resolvida
+217,1,2026-04-02,Loja Norte,Loja física,Pagamento,Dúvida sobre troca,379.33,Aberta
+218,2,2026-06-30,Loja Sul,Site,Produto,Cobrança divergente,3671.59,Aberta
+219,3,2026-06-26,Loja Centro,Loja física,Pagamento,Cobrança divergente,4033.85,Aberta
+220,1,2026-06-23,Loja Sul,Loja física,Produto,Pedido entregue com atraso,2932.35,Aberta
+221,2,2026-01-01,Loja Norte,Televendas,Pagamento,Dúvida sobre troca,3739.11,Aberta
+222,3,2026-04-16,Loja Online,Site,Cadastro,Dúvida sobre troca,245.79,Em análise
+223,1,2026-06-25,Loja Norte,Loja física,Pagamento,Dúvida sobre troca,1849.7,Em análise
+224,2,2026-03-29,Loja Norte,Site,Atendimento,Produto com avaria,3257.97,Em análise
+225,3,2026-04-10,Loja Sul,Aplicativo,Atendimento,Cobrança divergente,3896.78,Aberta
+226,1,2026-06-19,Loja Online,Loja física,Atendimento,Produto com avaria,811.01,Em análise
+227,2,2026-01-16,Loja Norte,Aplicativo,Cadastro,Dúvida sobre troca,3419.22,Resolvida
+228,3,2026-03-04,Loja Norte,Loja física,Pagamento,Produto com avaria,4903.97,Resolvida
+229,1,2026-09-07,Loja Leste,Aplicativo,Pagamento,Dúvida sobre troca,1563.76,Resolvida
+230,2,2026-08-16,Loja Norte,Televendas,Cadastro,Dúvida sobre troca,3663.53,Aberta
+231,3,2026-08-31,Loja Sul,Aplicativo,Entrega,Dúvida sobre troca,725.64,Aberta
+232,1,2026-07-03,Loja Leste,Aplicativo,Atendimento,Produto com avaria,3937.93,Aberta
+233,2,2026-04-26,Loja Leste,Loja física,Cadastro,Atualização cadastral pendente,2514.94,Resolvida
+234,3,2026-08-17,Loja Centro,Televendas,Atendimento,Cobrança divergente,4878.92,Em análise
+235,1,2026-08-26,Loja Centro,Loja física,Entrega,Atualização cadastral pendente,1257.29,Resolvida
+236,2,2026-06-24,Loja Leste,Loja física,Entrega,Dúvida sobre troca,4920.6,Aberta
+237,3,2026-03-17,Loja Online,Aplicativo,Cadastro,Dúvida sobre troca,3713.63,Resolvida
+238,1,2026-07-09,Loja Leste,Loja física,Pagamento,Atualização cadastral pendente,1223.38,Aberta
+239,2,2026-05-15,Loja Online,Aplicativo,Cadastro,Dúvida sobre troca,743.75,Aberta
+240,3,2026-05-09,Loja Norte,Televendas,Cadastro,Cobrança divergente,4512.6,Resolvida
+241,1,2026-03-05,Loja Norte,Site,Cadastro,Atualização cadastral pendente,434.4,Em análise
+242,2,2026-07-27,Loja Centro,Site,Pagamento,Cobrança divergente,4336.41,Aberta
+243,3,2026-06-20,Loja Centro,Televendas,Produto,Produto com avaria,2736.72,Em análise
+244,1,2026-05-10,Loja Centro,Loja física,Cadastro,Produto com avaria,2063.29,Resolvida
+245,2,2026-04-23,Loja Leste,Aplicativo,Pagamento,Pedido entregue com atraso,271.62,Resolvida
+246,3,2026-01-20,Loja Sul,Aplicativo,Entrega,Cobrança divergente,3108.18,Aberta
+247,1,2026-05-31,Loja Norte,Site,Entrega,Produto com avaria,1686.83,Em análise
+248,2,2026-02-12,Loja Online,Televendas,Atendimento,Atualização cadastral pendente,2173.66,Em análise
+249,3,2026-07-17,Loja Leste,Aplicativo,Produto,Dúvida sobre troca,1228.66,Resolvida
+250,1,2026-07-11,Loja Centro,Site,Atendimento,Dúvida sobre troca,2042.26,Em análise
+251,2,2026-02-01,Loja Centro,Loja física,Atendimento,Pedido entregue com atraso,2105.32,Aberta
+252,3,2026-03-23,Loja Online,Site,Pagamento,Cobrança divergente,422.88,Aberta
+253,1,2026-01-22,Loja Centro,Loja física,Cadastro,Pedido entregue com atraso,2110.6,Aberta
+254,2,2026-03-09,Loja Centro,Aplicativo,Pagamento,Dúvida sobre troca,172.11,Resolvida
+255,3,2026-06-20,Loja Sul,Loja física,Produto,Cobrança divergente,2937.17,Resolvida
+256,1,2026-03-18,Loja Norte,Site,Produto,Dúvida sobre troca,4575.5,Em análise
+257,2,2026-08-06,Loja Online,Televendas,Pagamento,Pedido entregue com atraso,4910.53,Resolvida
+258,3,2026-06-19,Loja Leste,Loja física,Atendimento,Produto com avaria,897.0,Aberta
+259,1,2026-05-06,Loja Online,Site,Cadastro,Atualização cadastral pendente,2269.33,Em análise
+260,2,2026-06-16,Loja Centro,Loja física,Cadastro,Pedido entregue com atraso,123.85,Resolvida
+261,3,2026-08-28,Loja Sul,Loja física,Produto,Dúvida sobre troca,66.99,Em análise
+262,1,2026-03-26,Loja Leste,Site,Pagamento,Produto com avaria,4630.69,Resolvida
+263,2,2026-06-23,Loja Online,Aplicativo,Entrega,Produto com avaria,3895.64,Em análise
+264,3,2026-07-31,Loja Leste,Aplicativo,Entrega,Cobrança divergente,4797.57,Aberta
+265,1,2026-01-30,Loja Online,Aplicativo,Pagamento,Dúvida sobre troca,1567.96,Resolvida
+266,2,2026-05-19,Loja Online,Televendas,Pagamento,Produto com avaria,2273.74,Em análise
+267,3,2026-03-02,Loja Sul,Aplicativo,Atendimento,Produto com avaria,3517.28,Aberta
+268,1,2026-01-31,Loja Centro,Aplicativo,Pagamento,Dúvida sobre troca,3630.04,Aberta
+269,2,2026-05-01,Loja Norte,Televendas,Cadastro,Produto com avaria,523.75,Em análise
+270,3,2026-01-02,Loja Centro,Aplicativo,Atendimento,Dúvida sobre troca,3737.54,Aberta
+271,1,2026-01-24,Loja Leste,Loja física,Entrega,Pedido entregue com atraso,3465.16,Em análise
+272,2,2026-05-14,Loja Online,Site,Produto,Dúvida sobre troca,1528.45,Resolvida
+273,3,2026-05-18,Loja Leste,Aplicativo,Atendimento,Produto com avaria,1489.2,Aberta
+274,1,2026-07-01,Loja Sul,Televendas,Atendimento,Atualização cadastral pendente,2265.98,Aberta
+275,2,2026-08-13,Loja Centro,Loja física,Cadastro,Cobrança divergente,1288.12,Resolvida
+276,3,2026-06-27,Loja Online,Loja física,Cadastro,Cobrança divergente,2402.27,Aberta
+277,1,2026-08-05,Loja Sul,Loja física,Entrega,Atualização cadastral pendente,2672.73,Aberta
+278,2,2026-06-07,Loja Online,Site,Produto,Cobrança divergente,1098.08,Em análise
+279,3,2026-01-16,Loja Online,Aplicativo,Pagamento,Pedido entregue com atraso,3588.49,Em análise
+280,1,2026-07-08,Loja Centro,Loja física,Atendimento,Pedido entregue com atraso,4591.99,Resolvida
+281,2,2026-07-10,Loja Norte,Site,Cadastro,Produto com avaria,1977.35,Em análise
+282,3,2026-08-20,Loja Online,Televendas,Entrega,Dúvida sobre troca,722.18,Aberta
+283,1,2026-02-05,Loja Norte,Televendas,Cadastro,Pedido entregue com atraso,2963.7,Aberta
+284,2,2026-06-05,Loja Sul,Loja física,Produto,Produto com avaria,3787.79,Resolvida
+285,3,2026-07-16,Loja Leste,Aplicativo,Atendimento,Dúvida sobre troca,2286.45,Em análise
+286,1,2026-08-25,Loja Sul,Loja física,Atendimento,Produto com avaria,910.15,Resolvida
+287,2,2026-07-18,Loja Sul,Site,Pagamento,Cobrança divergente,1870.5,Resolvida
+288,3,2026-06-15,Loja Centro,Televendas,Atendimento,Pedido entregue com atraso,865.12,Aberta
+289,1,2026-06-03,Loja Norte,Site,Atendimento,Atualização cadastral pendente,634.3,Resolvida
+290,2,2026-02-17,Loja Norte,Site,Entrega,Dúvida sobre troca,3107.3,Aberta
+291,3,2026-07-17,Loja Leste,Loja física,Atendimento,Produto com avaria,3805.69,Aberta
+292,1,2026-03-03,Loja Leste,Televendas,Atendimento,Produto com avaria,3331.64,Resolvida
+293,2,2026-06-11,Loja Norte,Site,Produto,Produto com avaria,2039.17,Em análise
+294,3,2026-06-08,Loja Centro,Aplicativo,Produto,Pedido entregue com atraso,4991.36,Em análise
+295,1,2026-07-19,Loja Centro,Site,Produto,Pedido entregue com atraso,3224.67,Resolvida
+296,2,2026-06-08,Loja Online,Site,Cadastro,Atualização cadastral pendente,347.72,Aberta
+297,3,2026-05-15,Loja Norte,Site,Cadastro,Atualização cadastral pendente,224.0,Em análise
+298,1,2026-05-26,Loja Online,Site,Pagamento,Cobrança divergente,221.17,Em análise
+299,2,2026-08-22,Loja Online,Televendas,Produto,Dúvida sobre troca,1876.85,Em análise
+300,3,2026-05-14,Loja Norte,Site,Atendimento,Dúvida sobre troca,2309.86,Em análise

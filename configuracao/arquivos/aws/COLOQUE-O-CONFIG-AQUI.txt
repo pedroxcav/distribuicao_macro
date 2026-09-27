@@ -1,0 +1,1 @@
+Substitua este marcador pelo arquivo chamado "config" fornecido no ambiente de trabalho.

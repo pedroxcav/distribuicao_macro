@@ -1,0 +1,52 @@
+# IDE e sistema operacional
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+runtime/
+
+# Resultados e logs de execução
+saida/
+logs/
+*.log
+erro_consulta.txt
+manifesto.csv
+resultado_*.csv
+
+# Artefatos gerados
+dist/
+*.exe
+*.dll
+*.pdb
+*.zip
+
+# Arquivos temporários do Excel
+~$*.xls*
+*.tmp
+
+# Arquivos corporativos que não devem ser publicados
+configuracao/arquivos/aws/config
+configuracao/arquivos/aws/credentials
+configuracao/arquivos/certificado/*.pem
+configuracao/arquivos/certificado/*.crt
+configuracao/arquivos/certificado/*.cer
+configuracao/arquivos/pip/pip.ini
+
+# Credenciais e configurações locais adicionais
+.env
+.env.*
+!.env.example
+*.key
+*.pfx
+*.p12
+
